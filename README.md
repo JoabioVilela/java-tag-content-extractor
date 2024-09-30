@@ -2,7 +2,7 @@
 
 Recentemente me submeti a um teste desafio de uma vaga de Dev Java numa empresa multinacional.
 
-O teste foi online e monitorado, e era proibido consultar IA's, mas consultar o Google era permitido. O recrutador assistiu ao teste via MS Teams, compartilhei minha tela.
+O teste foi online e monitorado, e era proibido consultar IA's, mas consultar o Google era permitido. Compartilhei minha tela via MS Teams para que o recrutador assistisse ao teste em tempo real.
 
 A duração máxima do teste era de uma hora e o recrutador escolheu aplicar um teste desafio da plataforma Hacker Rank www.hackerrank.com. Link para o desafio: https://www.hackerrank.com/challenges/tag-content-extractor/problem
 
