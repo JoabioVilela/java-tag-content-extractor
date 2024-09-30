@@ -22,6 +22,6 @@ So wait for a while<br>
 None<br>
 Imtiaz has a secret crush"<br>
 
-Para entender as regras do teste, leia a descrição na íntegra. Link para descrição: https://www.hackerrank.com/challenges/tag-content-extractor/problem
+Na primeira linha da entrada consta um caracter tipo int que representa a quantidade de linhas do texto. Nas linhas seguintes consta o texto baseado em tags. O algoritmo deve processar a entrada e apresentar apenas os conteúdos das tags válidas. Além disso, há outras regras (restrições) que podem ser lidas na descrição integral do teste disponível neste link: https://www.hackerrank.com/challenges/tag-content-extractor/problem
 
-Hoje decidi publicar esta solução.
+Hoje decidi publicar a minha solução.
