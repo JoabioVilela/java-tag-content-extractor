@@ -12,7 +12,7 @@ Em resumo, o programa Java deve receber como entrada um texto baseado em tags. E
 \<h1>Nayeem loves counseling\</h1><br>
 \<h1>\<h1>Sanjay has no watch\</h1>\</h1><par>So wait for a while\</par><br>
 \<Amee>safat codes like a ninja\</amee><br>
-<SA premium>Imtiaz has a secret crush</SA premium><br>"
+<SA premium>Imtiaz has a secret crush</SA premium>"<br>
 
 E deve ter como saída apenas os conteúdos das tags válidas. Assim:
 
@@ -20,7 +20,7 @@ E deve ter como saída apenas os conteúdos das tags válidas. Assim:
 Sanjay has no watch<br>
 So wait for a while<br>
 None<br>
-Imtiaz has a secret crush<br>"
+Imtiaz has a secret crush"<br>
 
 Para entender as regras do teste, leia a descrição na íntegra. Link para descrição: https://www.hackerrank.com/challenges/tag-content-extractor/problem
 
