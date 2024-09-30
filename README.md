@@ -10,7 +10,7 @@ Em resumo, o programa Java deve receber como entrada um texto baseado em tags. E
 
 4<br>
 \<h1>Nayeem loves counseling\</h1>\<br>
-\<h1>\<h1>Sanjay has no watch\</h1>\</h1><par>So wait for a while\</par>\<br>
+\<h1>\<h1>Sanjay has no watch\</h1>\</h1><par>So wait for a while\</par><br>
 \<Amee>safat codes like a ninja\</amee><br>
 <SA premium>Imtiaz has a secret crush</SA premium><br>
 
