@@ -28,6 +28,6 @@ Para resolver este desafio usei entrada e saída, variáveis, estruturas de repe
 
 Hoje decidi publicar a minha solução (arquivo TagContentExtrator.java).
 
-Aqui está um teste desta solução:
+Aqui está um teste desta solução com a entrada em cor verde e a saída em cor preta:
 
 ![image](https://github.com/user-attachments/assets/5b983310-5b4c-4557-b37d-2846b2141508)
