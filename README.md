@@ -1,6 +1,8 @@
 # Tag Content Extractor (tag-content-extractor)
 
-Recentemente me submeti a um teste desafio de uma vaga de Dev Java numa empresa multinacional.
+Você tem enfrentado desafios técnicos que testam suas habilidades de programação Java? Aqui está um que enfrentei recentemente!
+
+Na busca por novas oportunidades como desenvolvedor Java, recentemente me submeti a um desafio técnico de uma vaga de Dev Java numa empresa multinacional.
 
 O teste foi online e monitorado, e era proibido consultar IA's, mas consultar o Google era permitido. Compartilhei minha tela via MS Teams para que o recrutador assistisse ao teste em tempo real. A cada nova linha de código eu tinha que falar o que estava fazendo, pois o vídeo estava sendo gravado para posterior avaliação técnica.
 
