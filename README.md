@@ -6,7 +6,7 @@ O teste foi online e monitorado, e era proibido consultar IA's, mas consultar o 
 
 A duração máxima do teste era de uma hora e o recrutador escolheu aplicar um teste desafio da plataforma Hacker Rank www.hackerrank.com. Link para o desafio: https://www.hackerrank.com/challenges/tag-content-extractor/problem
 
-Em resumo, o programa Java deve receber como entrada um texto baseado em tags. Ex.:
+Em resumo, o programa Tag Content Extractor em Java deve receber como entrada um texto baseado em tags. Ex.:
 
 "4<br>
 \<h1>Nayeem loves counseling\</h1><br>
