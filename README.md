@@ -26,7 +26,7 @@ Na primeira linha da entrada consta um caracter tipo int que representa a quanti
 
 Para resolver este desafio usei entrada e saída, variáveis, estruturas de repetição, estruturas de decisão e Regex.
 
-Hoje decidi publicar a minha solução (arquivo TagContentExtrator.java).
+Hoje decidi publicar a minha solução (arquivo TagContentExtractor.java).
 
 Aqui está um teste desta solução com a entrada em cor verde e a saída em cor preta:
 
